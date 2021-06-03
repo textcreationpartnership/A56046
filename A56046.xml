@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals humbly offer'd to the consideration of this present Parliament Being a soft and easie way for the raising of money, in order to the perpetual maintaining and defending of this kingdom. Licensed, and entered according to order, 1689.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56046</idno><idno type="EEBO-CITATION">99831040</idno>
+  <idno type="VID">35502</idno>
+  <idno type="EEBO-PROQUEST">2240896026</idno>
+  
+            <idno type="STC">Wing P3755A</idno>
+            <idno type="STC">ESTC R219579</idno>
+            <idno type="PROQUEST">99831040</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99831040e"/>
+            <note>(EEBO-TCP ; phase 2, no. A56046)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35502)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2038:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals humbly offer'd to the consideration of this present Parliament Being a soft and easie way for the raising of money, in order to the perpetual maintaining and defending of this kingdom. Licensed, and entered according to order, 1689.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for W. Pardoe, in Westminster,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702 --  Finance --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:35502:1"/>
+            <head>PROPOSALS Humbly Offer'd To the Consideration of this Present PARLIAMENT. Being a Soft and Easie Way For the Raising of MONEY, IN ORDER <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the Perpetual Maintaining and Defend<g ref="char:EOLhyphen"/>ing of this KINGDOM. Licensed, and Entered according to Order, 1689.</head>
+            <p>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>T is never to be imagined but there will be some Contriving Heads still on work, for Innovation in all Kingdoms; And the certain way to undermine the <hi>Common-wealths-Man,</hi> and secure <hi>Royal-Govern<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+               </hi> in This, is, To consider what those Publick <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ngs, which the People do hope for, or ever ex<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ed by a <hi>Common-wealth;</hi> and to have the <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>g and his <hi>Parliament</hi> to be the Proposers and <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ors themselves of all that <hi>Good</hi> to the <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ect.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne Grand Thing worthy the Design of every <hi>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>lick Spirit</hi> in its Season, were a <hi>Register of <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>tes:</hi> Such a <hi>Register,</hi> driven up to the Head, <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uld bring all Possessions of Houses and Lands <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> one Tenure; that is <hi>Holding</hi> all of that <hi>Regi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>r,</hi> Enfranchised from whatsoever is <hi>Servile</hi> be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>es. The doing of this at one Dash, would put <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> end to all Contentions and Suits about the Ti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>s of Mens Possessions, to the Worlds end; <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hich were a thing of more rare Advantage, out <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> doubt, to the Community, than all whatso<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er the whole <hi>Series</hi> of other <hi>Kings</hi> and <hi>Parlia<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ents</hi> have done for the Land, since <hi>Edward</hi> the <hi>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nfessor.</hi> Again, into this <hi>Register,</hi> as all Posses<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ons, so all the Moneys of the Nation should be <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rought; no Debt else being to be allowed by <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aw: By which means the <hi>Common-wealth</hi> shall <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> immediately made as Rich again as it is; re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iving its Emolument of all the Money, as well <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Estates, that every Man hath.</p>
+            <p>Unto this <hi>Registry,</hi> therefore, let us suppose, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at so much <hi>per Annum</hi> (conceive what a <hi>House <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Commons</hi> shall please) in the Pound (of both) to be paid as <hi>Quit-Rent,</hi> for the Standing Reve<g ref="char:EOLhyphen"/>nues of the <hi>Common-wealth,</hi> distinct from the <hi>KING</hi>'s own Revenues left proper to Him<g ref="char:EOLhyphen"/>self. Out of this Rent and Treasure, yearly grow<g ref="char:EOLhyphen"/>ing, and still extant, should any <hi>Parliament</hi> that is called, give their Supply for Emergent Occa<g ref="char:EOLhyphen"/>sions: Here would be no Trouble, then, about raising of future Taxes, but Consultation only to be had, what was fit to be done, and spared from the <hi>Common-Bank:</hi> For this Rent being the <hi>Publick-Stock,</hi> (that is, the Nations Money, not the KING's) should be ordered to the setting the Poor at Work, and accommodating the Tra<g ref="char:EOLhyphen"/>der; while the Increase and Gain were the <hi>Com<g ref="char:EOLhyphen"/>munities,</hi> and <hi>Disposable</hi> only by a <hi>Parliament,</hi> as the Purse of the Kingdom is.</p>
+            <p>These are the small <hi>Politicks</hi> I have to offer, and would drive on; That every <hi>Bee</hi> be Contributary to the <hi>Hive,</hi> and what is not profitable to the <hi>Hive,</hi> be not allowed good for the <hi>Bee.</hi>
+            </p>
+            <p>Against this <hi>Register of Estates,</hi> there will be Combined a threefold Interest: Of some <hi>Lawyers,</hi> Of the <hi>Ʋsurer,</hi> and Of the <hi>Broken-Merchant.</hi> The Selfish <hi>Lawyers</hi> will give twenty Reasons against it; but the Bottom of them all will be this only, Then Men are not like to go to Law, as they now do. The <hi>Ʋsurer</hi> will cry out; <hi>By this means every Bodies Estate shall be known; and what a world of Hurt will ensue thereupon?</hi> But the Sub<g ref="char:EOLhyphen"/>stance only must come to this, That when he hath Five or Ten thousand Pounds perhaps at Use, he should not now go <hi>Scot-free</hi> any longer, as he hath done, never to pay a Penny to the <hi>PƲBLICK;</hi> when the Poor Man, who hath a
+<pb facs="tcp:35502:2"/> Living but of Ten or Twenty Pounds a Year in all the World, must be Taxed to the full; and at so much the greater Rate, for the bearing his Burden for him. The <hi>Broken-Tradesman</hi> likewise will exclaim; <hi>This will hinder Trade; Many now live on their Credit; but when the Register shall tell all, they shall not be Trusted.</hi> The Sum of which indeed is, That then no one Person, by his being a <hi>Knave,</hi> shall be longer in a Capacity to undo so many <hi>Honest Men</hi> when he Breaks, as now they are used to do. By all which, <hi>His Majesty,</hi> and a <hi>Parliament</hi> may here, at one view, be pleased to see, how these Reasons and Interests, which will be urged against this Excellent Thing, shall be sound the very Ground and Reason its self irre<g ref="char:EOLhyphen"/>fragable, upon which it is to be raised and up<g ref="char:EOLhyphen"/>holden.</p>
+            <p>Besides, There is One Advantage above All, which perhaps, never yet came into any Men's Thoughts; and that is, That by this way, there shall a new Stock be brought up in the Nation to Trade upon, when the Moneys running are drained Low; to wit, the <hi>Stock of Honesty:</hi> for when all Mens Conditions shall lie open, the Trust that a Man hath for the Future, shall be on his <hi>Honesty,</hi> and not on a <hi>Deceitful Reputation</hi> of more than he is Worth: Which will not only make every one strive to preserve That, (which is of unexpressible Concern to the whole) but shall put it in the power of every Man to have at first wherewithal to Live upon; until, by his own Fault or Falshood, he hath himself forfeited the same. And for this purpose, are there some Rules to be further thought upon, as to a before inti<g ref="char:EOLhyphen"/>mated Publick Encouragement to the Industrious Beginner, and hopeful Man; who will never dare to run Lavish, while such a Bridle is held upon him, as the View of all that will.</p>
+            <p>There may be happily several Things objected, in reference to Propriety, and particular Con<g ref="char:EOLhyphen"/>cern; which shall not yet depress this Motion, but Advance and Improve it. There is therefore an <hi>Eminent Dominion</hi> (let us know) in the <hi>Su<g ref="char:EOLhyphen"/>preme Authority</hi> of every <hi>State,</hi>) which in this Realm doth lie in the <hi>KING,</hi> and his <hi>Parlia<g ref="char:EOLunhyphen"/>ment,</hi> not <hi>Severally,</hi> but as <hi>One Corporation joynt<g ref="char:EOLhyphen"/>ly</hi>) over the Possessions, Goods, and Commodi<g ref="char:EOLhyphen"/>ties of all Persons; as the Chief Writers of <hi>Poli<g ref="char:EOLhyphen"/>ticks</hi> do tell us. So that, if there be any thing Grievous to the <hi>Generality,</hi> or Inconvenient to the <hi>Whole,</hi> it is no Wrong unto private Men, for the <hi>Parliament</hi> to remove it, though it cannot be done without their Loss. For, that Propriety which we call <hi>Meum</hi> and <hi>Tuum,</hi> is always to be understood between One Man and Another, and not between any Man and the <hi>Publick;</hi> whose greater Concern must over-rule All, according to that <hi>Fundamental Justice,</hi> upon which all <hi>Po<g ref="char:EOLhyphen"/>licy</hi> is built and maintained.</p>
+            <p>As one of the Chiefest Things, then, which are desirable amongst what is wanting in this King<g ref="char:EOLhyphen"/>dome, I have said, is a <hi>Register</hi> mentioned: So, among some few <hi>Grievances</hi> there is on the Sub<g ref="char:EOLhyphen"/>ject, One of the Chief, fit to be Redressed, is that Piece of the <hi>Norman-Yoke,</hi> which lies upon those <hi>Lands</hi> they call <hi>Copy-holds of Inheritance,</hi> that are <hi>Heriotable,</hi> and the <hi>Fine</hi> uncertain, at the Will of the <hi>Lord.</hi>
+            </p>
+            <p>The most <hi>Radical Advantage</hi> the <hi>Commons</hi> of <hi>England</hi> have above the People in other <hi>States▪</hi> does consist in their Liberty (by the Constitution of the <hi>Land,</hi>) to choose their <hi>Representatives</hi> in <hi>Parliament; All the Commons in the Realm are Re<g ref="char:EOLhyphen"/>presented in Parliament, by the Knights and Bur<g ref="char:EOLhyphen"/>gesses,</hi> (says Sir <hi>Enward Cook</hi>) and are called <hi>Tout le Comminaltie de la Terra illonque summes,</hi> In the <hi>Preface</hi> of <hi>Westminster</hi> the First: And what an unhappy thing is it, that, for want of such a <hi>Register,</hi> a Man of <hi>One Hundred Pounds a Year,</hi> of his <hi>own Inheritance,</hi> whose <hi>Land</hi> is <hi>Copy,</hi> shall not have a <hi>Vote</hi> in choosing a <hi>Knight of the Shire</hi> into the <hi>House;</hi> when he that hath but <hi>Forty Shillings</hi> a Year in all the World <hi>(Free)</hi> hath, and ought to have, according to the Usage of the <hi>Land?</hi> Neither is it indeed, tolerable, that there should be <hi>such Oaths</hi> taken, as there are custo<g ref="char:EOLhyphen"/>marily, to the <hi>Lords of Mannors,</hi> which no Con<g ref="char:EOLhyphen"/>scientious or Ingenuous Spirit can choose but Re<g ref="char:EOLhyphen"/>gret unto any, but their <hi>Soveraign Lord the KING</hi> only. There is no Reason a Man of Estate should Die, and his Lands be free from Debts, only from the <hi>Servile Tenure</hi> of them. Nei<g ref="char:EOLhyphen"/>ther is it fit a Man of greater <hi>Abilities</hi> and <hi>Me<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> should be exempt for <hi>Service</hi> at the <hi>Assiz<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</hi> or other <hi>Courts,</hi> and the <hi>Poorer</hi> and <hi>less Able,</hi> b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> made to <hi>Serve,</hi> only because the One's Land i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Free,</hi> and the Other's <hi>Coppy-hold,</hi>
+            </p>
+            <p>If it were reasonable in the Lords of such Man<g ref="char:EOLhyphen"/>nors, who had Land in <hi>Capite,</hi> to desire of the <hi>KING</hi> a Relief, in the Case of <hi>Wardships;</hi> would it not be just in the <hi>KING</hi> to Expect and Resolve <hi>They</hi> should do to <hi>Others,</hi> as they thi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k fit <hi>He</hi> should do to <hi>Them:</hi> Suppose then a <hi>Stat<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te, Primo Guilielmi &amp; Mariae,</hi> Be it Enacted, That all Lands which are <hi>Inheritance,</hi> and yet <hi>Copy<g ref="char:EOLhyphen"/>hold, Fine</hi> uncertain, be for ever hereby <hi>Enfran<g ref="char:EOLhyphen"/>chized,</hi> all <hi>Heriots</hi> henceforth <hi>Abolished,</hi> and that every Tenant be made Debtor in <hi>lieu</hi> hereof to the Lords of such Mannors, in the Value of Two Years Purchase the Full-Rent, or Forty Years Purchase the Quit-Rent, (at the Choice of the Tenant) to be paid in Two Years, and to be Re<g ref="char:EOLhyphen"/>covered by the same <hi>Statute.</hi> Who can say, that any such Grateful Act of this Nature, hath pass'd since <hi>William the Conqueror?</hi> And who can judge it not fit, that when the <hi>Jews</hi> had their <hi>Jubilees</hi> once in Fifty Years, the <hi>English-People</hi> and <hi>Com<g ref="char:EOLhyphen"/>munity</hi> should have one in <hi>Six Hundred</hi> and up<g ref="char:EOLhyphen"/>wards since his <hi>Conquest.</hi>
+            </p>
+            <p>Believe it, Those Things which are a Leaven in the Hearts of Men to wish for a Change, (as there was nothing in the Associate Counties more pre<g ref="char:EOLhyphen"/>valent, when Time served, than this) do re<g ref="char:EOLhyphen"/>quire the <hi>States-man</hi>'s Prevention, and kindly Re<g ref="char:EOLhyphen"/>formation. The Summ whereof, in this <hi>Regi<g ref="char:EOLhyphen"/>ster of Estates,</hi> might be comprized; but that a <hi>Brief Essay,</hi> and a <hi>First Draught</hi> only is intended in this <hi>Paper,</hi> and not that full <hi>Pourtracture,</hi> which cannot at one Sitting, but by Second and Third Thoughts, and the <hi>Admonitions</hi> also of divers <hi>Ad<g ref="char:EOLhyphen"/>visers,</hi> (who may hereby be excited to <hi>Communi<g ref="char:EOLhyphen"/>cate them</hi>) receive its <hi>Perfection.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>W. Pardoe,</hi> in <hi>Westminster,</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
